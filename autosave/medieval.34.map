@@ -1865,3 +1865,14 @@
 "origin" "7104 1840 -8"
 "angle" "180"
 }
+// entity 7
+{
+"classname" "info_player_deathmatch"
+"origin" "6064 880 136"
+"angle" "270"
+}
+// entity 8
+{
+"classname" "info_player_deathmatch"
+"origin" "3984 -592 136"
+}
