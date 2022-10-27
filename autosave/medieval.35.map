@@ -1335,13 +1335,3 @@
 "origin" "2848 -208 56"
 "angle" "0"
 }
-// entity 10
-{
-"classname" "item_armor1"
-"origin" "3552 -224 -256"
-}
-// entity 11
-{
-"classname" "weapon_supershotgun"
-"origin" "6272 -80 -256"
-}
